@@ -17,6 +17,7 @@ paul@github:~$ cat interests.txt
 - 🦀 Rust
 - 🐧 Linux
 - 🌍 Golang
+- ☕ Java
 
 paul@github:~$ cat technologies_tools.txt
 🔧 Technologies & Tools:
