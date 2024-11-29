@@ -32,10 +32,4 @@ paul@github:~$ cat technologies_tools.txt
 paul@github:~$ cat github_stats.txt
 📈 GitHub Stats:
 ```
-![Pauls GitHub stats](https://github-readme-stats.vercel.app/api?username=prixix&show_icons=true&theme=radical)
-
-```bash
-paul@github:~$ cat blog_articles.txt
-📝 Blog & Articles:
-```
-[My Blog](https://www.prixix.com) - I occasionally write about my experiences and projects.
+![Pauls GitHub stats](https://github-readme-stats.vercel.app/api?username=paulartjomow&show_icons=true&theme=radical)
