@@ -7,7 +7,7 @@ paul@github:~$ cat location.txt
 
 paul@github:~$ cat current_job.txt
 💼 Current Job: 
-I am currently an apprentice as a software engineer 
+I am currently a software engineer 
 at update texware GmbH,
 focusing on textile ERP systems.
 My primary programming language is Progress OpenEdge.
