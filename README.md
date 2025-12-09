@@ -20,9 +20,3 @@ paul@github:~$ cat technologies_tools.txt
 ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-```bash
-paul@github:~$ cat github_stats.txt
-📈 GitHub Stats:
-```
-![Pauls GitHub stats](https://github-readme-stats.vercel.app/api?username=paulartjomow&show_icons=true&theme=radical)
